@@ -1,27 +1,33 @@
 # YeelightLib
 My Little experiment with Yeelight app
 
-#Lightweight C++ library for local network control of Yeelight smart bulbs.
+YeelightLib - C++ Library for Yeelight Smart Bulb Control
+https://img.icons8.com/color/96/000000/light-on.png
 
-Features
-Simple API - Control bulbs with minimal code
+A lightweight C++ library for controlling Yeelight smart bulbs over local network. Originally created as an experiment, now available for anyone who needs simple Yeelight integration in their C++ projects.
 
-LAN Control - Direct communication over local network
+Features ✨
+Simple API - Control bulbs with just a few lines of code
 
-Cross-platform - Works on Windows/Linux/macOS
+Direct LAN Control - No cloud dependencies, works entirely on your local network
 
-No Dependencies - Pure C++11 implementation
+Cross-platform - Tested on Windows, Linux and macOS
 
-Requirements
-C++11 compatible compiler
+No External Dependencies - Pure C++11 implementation
 
-Yeelight bulb with LAN control enabled (via official app)
+Basic Operations:
 
-Local network access to the bulb
+Power on/off control
 
-Quick Start
-Clone this repository into your project
+Smooth transitions between states
 
-Include the library headers
+Connection testing
 
-Instantiate the Bulb class like in my main.cpp file
+Prerequisites 📋
+C++11 compatible compiler (GCC, Clang, MSVC)
+
+Yeelight smart bulb (tested with 1S and Color models)
+
+LAN control enabled in Yeelight official app
+
+Bulb and host device on the same local network
