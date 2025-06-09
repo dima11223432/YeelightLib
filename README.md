@@ -31,3 +31,5 @@ Yeelight smart bulb (tested with 1S and Color models)
 LAN control enabled in Yeelight official app
 
 Bulb and host device on the same local network
+
+to run the project you need to clone the repository, include the library and start using functions like in my main.cpp file
