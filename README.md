@@ -2,7 +2,6 @@
 My Little experiment with Yeelight app
 
 YeelightLib - C++ Library for Yeelight Smart Bulb Control
-https://img.icons8.com/color/96/000000/light-on.png
 
 A lightweight C++ library for controlling Yeelight smart bulbs over local network. Originally created as an experiment, now available for anyone who needs simple Yeelight integration in their C++ projects.
 
